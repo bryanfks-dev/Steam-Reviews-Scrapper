@@ -12,7 +12,7 @@ The app.properties file contains several properties, such as:
 - **scrapper.rows_to_scroll:** The number of rows you want to scroll, this number will affect numbers of scrapped data
 - **csv.path:** The path to csv file, which is the file to save the scrapping result
 
-For reference, the default value of app.properties is:
+For reference, the default values of app.properties are:
 
 ```properties
 [ScrapperSection]
