@@ -4,7 +4,7 @@ A program to scrape game reviews from Steam game platform.
 
 ## Pre-start
 
-Before starting, please make sure properties inside app.properties file.
+Before starting, please make sure all properties inside app.properties file are correct.
 
 The app.properties file contains several properties, such as:
 
@@ -63,4 +63,4 @@ jupyter execute scraper.ipynb
 
 ## Others
 
-This project also consist of two different machine learning algorithms you can try on! There are **Naive Bayes Classifier** and **Support Vector Classifier** algorithms. From these two machine learning algorithms, you can compare and see what the differences.
+This project also consist of two different machine learning algorithms you can try on! There are **Naive Bayes Classifier** and **Support Vector Classifier** algorithms. From these two machine learning algorithms, you can compare and see what the differences!
