@@ -52,7 +52,7 @@ source <path_to_env>/bin/activate
 3. Install required python modules
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Run the jupyter notebook
